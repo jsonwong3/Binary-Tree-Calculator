@@ -1,0 +1,36 @@
+H:\ICS4U\Assignments\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe.config
+H:\ICS4U\Assignments\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe
+H:\ICS4U\Assignments\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.pdb
+H:\ICS4U\Assignments\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.exe
+H:\ICS4U\Assignments\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.pdb
+H:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe.config
+H:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.exe
+H:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.pdb
+H:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe
+H:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.pdb
+H:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.csprojResolveAssemblyReference.cache
+G:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe.config
+G:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.exe
+G:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.pdb
+G:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe
+G:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.pdb
+G:\ICS4U\Assignments\A4_LL_BT\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.csprojResolveAssemblyReference.cache
+G:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe.config
+G:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.exe
+G:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.pdb
+G:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe
+G:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.pdb
+G:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.csprojResolveAssemblyReference.cache
+D:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe.config
+D:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe
+D:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.pdb
+D:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.csprojResolveAssemblyReference.cache
+D:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.csproj.CoreCompileInputs.cache
+D:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.exe
+D:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.pdb
+H:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe.config
+H:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.exe
+H:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\bin\Debug\BinaryTreeCalculator.pdb
+H:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.csprojResolveAssemblyReference.cache
+H:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.exe
+H:\ICS4U\Assignments\A4_Binary Tree\BinaryTreeCalculator\BinaryTreeCalculator\obj\Debug\BinaryTreeCalculator.pdb
